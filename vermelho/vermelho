@@ -1,0 +1,13 @@
+.:
+total 12
+drwxr-xr-x 2 desenvolvedor criacao 4096 Abr  6 22:02 azul
+-rw-r--r-- 1 desenvolvedor criacao   55 Abr  6 22:02 README.md
+drwxr-xr-x 2 desenvolvedor criacao 4096 Abr  7 00:12 vermelho
+
+./azul:
+total 4
+-rw-r--r-- 1 desenvolvedor criacao 16 Abr  6 22:02 azul
+
+./vermelho:
+total 0
+-rw-r--r-- 1 desenvolvedor criacao 0 Abr  7 00:12 vermelho
